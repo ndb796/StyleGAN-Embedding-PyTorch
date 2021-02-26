@@ -1,1 +1,1 @@
-# StyleGAN-Embedding-PyTorch
+### StyleGAN Embedding PyTorch
