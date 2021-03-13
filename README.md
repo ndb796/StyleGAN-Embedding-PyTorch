@@ -30,8 +30,12 @@
 
 * CelebA Truncation 0.8: [Source code](/PyTorch_StyleGAN_CelebA_Latent_Vector_Dataset_Generation_Based_on_InterFaceGAN_(Truncation_80).ipynb)
 
-#### <b>CNN for Encoding Images to Latent Vectors</b>
+#### <b>CNN for Encoding Images to Latent Vectors (FFHQ)</b>
 
-* Truncation 0.8: [Source code](/PyTorch_CNN_for_Encoding_Images_to_Latent_Vectors_(Truncation_80).ipynb)
-* Truncation 0.9: [Source code](/PyTorch_CNN_for_Encoding_Images_to_Latent_Vectors_(Truncation_90).ipynb)
-* Truncation 1.0: [Source code](/PyTorch_CNN_for_Encoding_Images_to_Latent_Vectors_(Truncation_100).ipynb)
+* FFHQ Truncation 0.8: [Source code](/PyTorch_CNN_for_Encoding_Images_to_Latent_Vectors_(Truncation_80).ipynb)
+* FFHQ Truncation 0.9: [Source code](/PyTorch_CNN_for_Encoding_Images_to_Latent_Vectors_(Truncation_90).ipynb)
+* FFHQ Truncation 1.0: [Source code](/PyTorch_CNN_for_Encoding_Images_to_Latent_Vectors_(Truncation_100).ipynb)
+
+#### <b>CNN for Encoding Images to Latent Vectors (CelebA)</b>
+
+* CelebA Truncation 0.8: [Source code](/PyTorch_CNN_for_Encoding_CelebA_Images_to_Latent_Vectors_(Truncation_80).ipynb)
