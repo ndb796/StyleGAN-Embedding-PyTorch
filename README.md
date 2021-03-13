@@ -1,4 +1,4 @@
-### StyleGAN Embedding PyTorch
+## StyleGAN Embedding PyTorch
 
 #### <b>1. Face Image Alignment</b>
 
@@ -18,3 +18,7 @@
 #### <b>4. Face Morphing</b>
 
 * [Source Code](/Face_Morphing.ipynb)
+
+#### <b>Latent Vector Dataset Generation</b>
+
+* [Source code](/PyTorch_StyleGAN_Latent_Vector_Dataset_Generation_Based_on_InterFaceGAN.ipynb)
