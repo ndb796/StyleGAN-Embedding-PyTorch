@@ -21,10 +21,12 @@
 
 #### <b>Latent Vector Dataset Generation</b>
 
-* Truncation 0.7: [Source code](/PyTorch_StyleGAN_Latent_Vector_Dataset_Generation_Based_on_InterFaceGAN.ipynb)
-* Truncation 0.8: [Source code](/PyTorch_StyleGAN_Latent_Vector_Dataset_Generation_Based_on_InterFaceGAN_(Truncation_80).ipynb)
-* Truncation 0.9: [Source code](/PyTorch_StyleGAN_Latent_Vector_Dataset_Generation_Based_on_InterFaceGAN_(Truncation_90).ipynb)
-* Truncation 1.0: [Source code](/PyTorch_StyleGAN_Latent_Vector_Dataset_Generation_Based_on_InterFaceGAN_(Truncation_100).ipynb)
+* FFHQ Truncation 0.7: [Source code](/PyTorch_StyleGAN_Latent_Vector_Dataset_Generation_Based_on_InterFaceGAN.ipynb)
+* FFHQ Truncation 0.8: [Source code](/PyTorch_StyleGAN_Latent_Vector_Dataset_Generation_Based_on_InterFaceGAN_(Truncation_80).ipynb)
+* FFHQ Truncation 0.9: [Source code](/PyTorch_StyleGAN_Latent_Vector_Dataset_Generation_Based_on_InterFaceGAN_(Truncation_90).ipynb)
+* FFHQ Truncation 1.0: [Source code](/PyTorch_StyleGAN_Latent_Vector_Dataset_Generation_Based_on_InterFaceGAN_(Truncation_100).ipynb)
+
+* CelebA Truncation 0.8: [Source code](/PyTorch_StyleGAN_CelebA_Latent_Vector_Dataset_Generation_Based_on_InterFaceGAN_(Truncation_80).ipynb)
 
 #### <b>CNN for Encoding Images to Latent Vectors</b>
 
