@@ -29,6 +29,8 @@
 #### <b>Latent Vector Dataset Generation (CelebA)</b>
 
 * CelebA Truncation 0.8: [Source code](/PyTorch_StyleGAN_CelebA_Latent_Vector_Dataset_Generation_Based_on_InterFaceGAN_(Truncation_80).ipynb)
+* CelebA Truncation 0.9: [Source code](/PyTorch_StyleGAN_CelebA_Latent_Vector_Dataset_Generation_Based_on_InterFaceGAN_(Truncation_90).ipynb)
+* CelebA Truncation 1.0: [Source code](/PyTorch_StyleGAN_CelebA_Latent_Vector_Dataset_Generation_Based_on_InterFaceGAN_(Truncation_100).ipynb)
 
 #### <b>CNN for Encoding Images to Latent Vectors (FFHQ)</b>
 
