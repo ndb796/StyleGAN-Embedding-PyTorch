@@ -41,3 +41,5 @@
 #### <b>CNN for Encoding Images to Latent Vectors (CelebA)</b>
 
 * CelebA Truncation 0.8: [Source code](/PyTorch_CNN_for_Encoding_CelebA_Images_to_Latent_Vectors_(Truncation_80).ipynb)
+* CelebA Truncation 0.9: [Source code](/PyTorch_CNN_for_Encoding_CelebA_Images_to_Latent_Vectors_(Truncation_90).ipynb)
+* CelebA Truncation 1.0: [Source code](/PyTorch_CNN_for_Encoding_CelebA_Images_to_Latent_Vectors_(Truncation_100).ipynb)
