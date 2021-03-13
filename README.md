@@ -28,4 +28,6 @@
 
 #### <b>CNN for Encoding Images to Latent Vectors</b>
 
+* Truncation 0.8: [Source code](/PyTorch_CNN_for_Encoding_Images_to_Latent_Vectors_(Truncation_80).ipynb)
 * Truncation 0.9: [Source code](/PyTorch_CNN_for_Encoding_Images_to_Latent_Vectors_(Truncation_90).ipynb)
+* Truncation 1.0: [Source code](/PyTorch_CNN_for_Encoding_Images_to_Latent_Vectors_(Truncation_100).ipynb)
