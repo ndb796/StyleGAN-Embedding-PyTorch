@@ -53,3 +53,7 @@
 
 * CelebA: [Source code](/Evaluating_the_Facial_Identity_Label_Consistency_for_PyTorch_CelebA_StyleGAN_Encoder.ipynb)
 * FFHQ: [Source code](/Evaluating_the_Facial_Identity_Label_Consistency_for_PyTorch_FFHQ_StyleGAN_Encoder.ipynb)
+
+#### <b>Generate Corrected Facial Identity Latent Vectors</b>
+
+* CelebA Encoder: [Source code](/Generate_Corrected_Facial_Identity_Latent_Vectors_Using_PyTorch_CelebA_StyleGAN_Encoder.ipynb)
