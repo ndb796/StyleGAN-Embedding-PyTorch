@@ -43,3 +43,13 @@
 * CelebA Truncation 0.8: [Source code](/PyTorch_CNN_for_Encoding_CelebA_Images_to_Latent_Vectors_(Truncation_80).ipynb)
 * CelebA Truncation 0.9: [Source code](/PyTorch_CNN_for_Encoding_CelebA_Images_to_Latent_Vectors_(Truncation_90).ipynb)
 * CelebA Truncation 1.0: [Source code](/PyTorch_CNN_for_Encoding_CelebA_Images_to_Latent_Vectors_(Truncation_100).ipynb)
+
+#### <b>Evaluating the Face Gender Label Consistency for StyleGAN Encoder</b>
+
+* CelebA: [Source code](/Evaluating_the_Face_Gender_Label_Consistency_for_PyTorch_CelebA_StyleGAN_Encoder.ipynb)
+* FFHQ: [Source code](/Evaluating_the_Face_Gender_Label_Consistency_for_PyTorch_FFHQ_StyleGAN_Encoder.ipynb)
+
+#### <b>Evaluating the Facial Identity Consistency for StyleGAN Encoder</b>
+
+* CelebA: [Source code](/Evaluating_the_Facial_Identity_Label_Consistency_for_PyTorch_CelebA_StyleGAN_Encoder.ipynb)
+* FFHQ: [Source code](/Evaluating_the_Facial_Identity_Label_Consistency_for_PyTorch_FFHQ_StyleGAN_Encoder.ipynb)
